@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist and Python Engineer
 ----------------------------------
 
-Lorem ipsum dolor sit amet. Aut quae neque ad nostrum corporis et quam eligendi. Sit expedita consectetur a voluptates eius et asperiores consequatur in dignissimos maxime.
-
-* 🌍  I'm based in Bristol, UK
-* 🖥️  See my portfolio at [website.com](http://test.com)
+* 🌍  I'm based in Bristol, UK 
+* 🖥️  See my portfolio at [website.com](http://test.com)
+* ⚽  AVFC and Bristol Rovers
 * 🧠  I'm learning Rust and Some Frontend
 
 ### Skills
