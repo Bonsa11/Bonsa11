@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist and Python Engineer
 ----------------------------------
 
-I like to automate things 
-
 * 🌍  I'm based in Bristol, UK 
 * 🖥️  See my portfolio at [website.com](http://test.com)
 * ⚽  AVFC and Bristol Rovers
