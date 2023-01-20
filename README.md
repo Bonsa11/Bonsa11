@@ -9,7 +9,6 @@ Lorem ipsum dolor sit amet. Aut quae neque ad nostrum corporis et quam eligendi.
 * 🌍  I'm based in Bristol, UK
 * 🖥️  See my portfolio at [website.com](http://test.com)
 * 🧠  I'm learning Rust and Some Frontend
-* 
 
 ### Skills
 
