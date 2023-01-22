@@ -5,7 +5,7 @@ Data Scientist and Python Engineer
 ----------------------------------
 
 * 🌍  I'm based in Bristol, UK 
-* 🖥️  See my portfolio at [website.com](http://test.com)
+* 🖥️  See my [CV here](https://github.com/Bonsa11/Bonsa11/blob/main/SamuelBodza-CV.pdf)
 * ⚽  AVFC and Bristol Rovers
 * 🧠  I'm learning Rust and Some Frontend
 
