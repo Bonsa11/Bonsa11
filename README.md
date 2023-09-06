@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam Bodza
 =================================================================================================================================
 
-Data Engineer & Python 
+Data Engineer @ Mapstack
 ----------------------------------
 
 * 🌍  I'm based in Bristol, UK 
 * 🖥️  See my [CV here](https://github.com/Bonsa11/Bonsa11/blob/main/SamuelBodza-CV.pdf)
 * ⚽  AVFC and Bristol Rovers
-* 🧠  I'm learning Rust and Some Frontend
+* 🧠  I'm learning all about GIS
 
 ### Skills
 
