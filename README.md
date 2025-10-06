@@ -3,12 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Engineer @ Mapstack
 ----------------------------------
-
-* 🌍  I'm based in Bristol, UK 
-* 🖥️  See my [CV here](https://github.com/Bonsa11/Bonsa11/blob/main/SamuelBodza-CV.pdf)
-* ⚽  AVFC and Bristol Rovers
-* 🧠  I'm learning all about GIS
-
 ### Skills
 
 <p align="left">
